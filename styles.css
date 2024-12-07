@@ -1,9 +1,7 @@
 /*  your css code here. If applicable */
-  nav{
+  nav,ul,li{
     background-color:#D3D3D3;
 	padding:10px;
-   }
-ul,li{	
 	display:inline;
 	margin-right:1rem;
 	list-style:none;
